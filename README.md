@@ -16,8 +16,8 @@ Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino 
 
 </ br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoSSouza3&show_icons=true&locale=en&layout=compact" alt="TiagoSSouza3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoSSouza3&show_icons=true&locale=en" alt="TiagoSSouza3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoSSouza3&show_icons=true&locale=en" alt="TiagoSSouza3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoSSouza3&show_icons=true&locale=en&layout=compact" alt="TiagoSSouza3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoSSouza3&" alt="TiagoSSouza3" /></p>
