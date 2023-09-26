@@ -2,6 +2,8 @@
 
 Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.
 
+
+
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -11,6 +13,8 @@ Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+
+</ br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoSSouza3&show_icons=true&locale=en&layout=compact" alt="TiagoSSouza3" /></p>
 
