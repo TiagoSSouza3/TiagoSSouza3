@@ -1,9 +1,7 @@
 ### Oi, bom dia!!!
 
 Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.
-
-
-
+<hr>
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
