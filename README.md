@@ -1,6 +1,6 @@
 ### Oi, bom dia!!!
 
-<h3>Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.</h3>
+Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.
 <hr>
 <h3 align="left">Skills:</h3>
 <p align="left"> 
