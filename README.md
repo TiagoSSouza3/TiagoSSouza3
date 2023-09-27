@@ -1,11 +1,13 @@
+<img align="right" alt="Coding" width="270" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
-<h3 aling="center">Oi, bom dia!!! </h3>
+<h2  align="center"> Oi, bom dia!!! 😀</h2>
 
-<a>  Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.</a>
+<h4>  Meu nome é <b>Tiago</b>, </br>
+Sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.
+</h4>
 
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
-- 🔭 Estou atualmente trabalhando no projeto <b>Tales of a Mystic Land </b> <a href="https://github.com/talesofamysticland" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="40" width="40" /></a>
+- 🔭 Atualmente trabalhando no projeto <b>Tales of a Mystic Land </b> <a href="https://github.com/talesofamysticland" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="40" width="40" /></a>
 
 - 🌱 Começando a estudar <b>CSS</b>
 
@@ -20,7 +22,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 <hr>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoSSouza3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TiagoSSouza3" /></p>
 
