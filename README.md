@@ -1,10 +1,10 @@
 <img align="right" alt="Coding" width="270" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
-<h2  align="center"> Oi, bom dia!!! 😀</h2>
+<h2 align="center"> Oi, bom dia!!! 😀</h2>
 
-<a>Meu nome é <b>Tiago</b>, </br>
+<h4> Meu nome é <b>Tiago</b>, </br>
 Sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.
-</a>
+</h4>
 
 - 🔭 Atualmente trabalhando no projeto <b>Tales of a Mystic Land </b> <a href="https://github.com/talesofamysticland" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="40" width="40" /></a>
 
