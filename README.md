@@ -1,8 +1,9 @@
-<h3>Oi, bom dia!!!</h3>
 
-<a>Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.</a>
+<h3 aling="center">Oi, bom dia!!! </h3>
 
+<a>  Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.</a>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 - 🔭 Estou atualmente trabalhando no projeto <b>Tales of a Mystic Land </b> <a href="https://github.com/talesofamysticland" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="40" width="40" /></a>
 
