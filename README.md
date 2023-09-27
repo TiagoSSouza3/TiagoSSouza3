@@ -2,7 +2,7 @@
 
 <a>Oi, meu nome é <b>Tiago</b>, sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de informática.</a>
 
-- 🔭 Estou atualmente trabalhando no projeto <b>Tales of a Mystic Land</b> <a href="https://github.com/talesofamysticland" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="30" width="40" /></a>
+- 🔭 Estou atualmente trabalhando no projeto <b>Tales of a Mystic Land </b> <a href="https://github.com/talesofamysticland" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="40" width="40" /></a>
 
 - 🌱 Começando a estudar <b>CSS</b>
 
