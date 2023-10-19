@@ -8,7 +8,7 @@ Sou estudante do IFSP, estou no 2º ano do ensino medio integrado, do curso de i
 
 - 🔭 Atualmente trabalhando no projeto <b>Tales of a Mystic Land </b> <a href="https://github.com/talesofamysticland" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/137815903?s=400&u=e9dcf3fa9285e5dcd8346017813df3eacc41b89e&v=4" alt="TiagoSSouza3" height="40" width="40" /></a>
 
-- 🌱 Começando a estudar <b>CSS</b>
+- 🌱 Estudando <b>CSS</b>
 
 - 📫 Email de contato: <b>tirigopeixe@gmail.com</b>
 
