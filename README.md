@@ -8,7 +8,7 @@ Sou estudante do IFSP, estou no 3º ano do ensino medio integrado, do curso de i
 
 - 🔭 Atualmente estudando Godot 4 e GDScript
 
-- 📫 Email de contato: <b>tirigopeixe@gmail.com</b>
+- 📫 Email de contato: <b>tiagodssouza3@gmail.com</b>
 
 <hr>
 <h3 align="left">Perfil Profissional:</h3>
