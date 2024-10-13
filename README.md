@@ -6,7 +6,7 @@
 Sou estudante do IFSP, estou no 3º ano do ensino medio integrado, do curso de informática.
 </h4>
 
-- 🔭 Atualmente estudando Godot 4 e GDScript
+- 🔭 Atualmente estudando COBOL
 
 - 📫 Email de contato: <b>tiagodssouza3@gmail.com</b>
 
