@@ -36,4 +36,3 @@ Sou estudante do IFSP, estou no 3º ano do ensino medio integrado, do curso de i
 
 <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoSSouza3&show_icons=true&locale=en&theme=tokyonight" alt="TiagoSSouza3" /></p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoSSouza3" alt="TiagoSSouza3" /></p>
