@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="270" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 <h4> Meu nome é <b>Tiago</b>, </br>
-Sou estudante do IFSP, estou no 3º ano do ensino medio integrado, do curso de informática.
+Sou estudante da USP - EACH, estou no 1º semestre do curso Sistemas de Informações.
 </h4>
 
 - 🔭 Atualmente estudando COBOL
