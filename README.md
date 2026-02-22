@@ -32,7 +32,4 @@ Sou estudante da USP - EACH, estou no 1Âº semestre do curso Sistemas de InformaÃ
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="godot" width="40" height="40"/> </a>
 </p>
 <hr>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoSSouza3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TiagoSSouza3" /></p>
-
-<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoSSouza3&show_icons=true&locale=en&theme=tokyonight" alt="TiagoSSouza3" /></p>
 
